@@ -1,1 +1,1 @@
-# Withdrow race and horse data from netkeiba on raspberry pi4
+# Withdrow data from netkeiba on RPi4
